@@ -1,0 +1,1 @@
+    alert("Enthony GOAT ira fazer 2 gols hoje")
